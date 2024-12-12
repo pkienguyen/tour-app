@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tour</string>
+    <string name="introTitle">Let’s <font color='#3F95EC'>explore </font>our <font color='#3F95EC'>World</font>!</string>
+</resources>

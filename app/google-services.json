@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1080337171697",
+    "firebase_url": "https://tour-eaa84-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tour-eaa84",
+    "storage_bucket": "tour-eaa84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080337171697:android:acfffb7a6298d82d881550",
+        "android_client_info": {
+          "package_name": "com.example.tour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPZTjPfMVm5im_FLOikpIqFsFiw8fMVEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
